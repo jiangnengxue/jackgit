@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick and simple.
 abcdef in master & branch.
 jack learngit2.
+from learngit1.
